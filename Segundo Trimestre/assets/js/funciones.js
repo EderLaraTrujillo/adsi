@@ -1,0 +1,1 @@
+$('.modaleder').modal('hide')
